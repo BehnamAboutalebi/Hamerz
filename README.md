@@ -84,7 +84,7 @@ Age
 
 Visualization is provided as an Overview report of overal Sales, Segments and City shares.
 
-![Visualization](/Source/Image/Visualization.png)
+![Visualization](/Source/Image/Visualization.PNG)
 
 
 ## Further Steps
